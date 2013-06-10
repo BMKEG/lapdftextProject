@@ -3,7 +3,7 @@ lapdftextProject
 
 High-level build project for all LAPDF-Text submodules
 
-<img src="design/lapdftext.jpg">
+<img src="design/lapdftext.jpg" width="400px">
 
 We list five submodules in this high-level repo (six, if you include the bmkeg-parent project 
 which is needed to keep track of version numbers of Maven dependencies). 
