@@ -4,9 +4,6 @@
 [submodule "lapdftext"]
 	path = lapdftext
 	url = https://github.com/BMKEG/lapdftext
-[submodule "lapdftextVpdmf"]
-        path = lapdftextVpdmf
-        url = https://github.com/BMKEG/lapdftextVpdmf
 [submodule "bmkeg-parent"]
 	path = bmkeg-parent
 	url = https://github.com/BMKEG/bmkeg-parent
@@ -16,3 +13,6 @@
 [submodule "lapdftextClientComponents"]
 	path = lapdftextClientComponents
 	url = https://github.com/BMKEG/lapdftextClientComponents
+[submodule "lapdftextVpdmf"]
+	path = lapdftextVpdmf
+	url = https://github.com/BMKEG/lapdftextVpdmf
