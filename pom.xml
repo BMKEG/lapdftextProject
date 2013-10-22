@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>edu.isi.bmkeg</groupId>
+	<artifactId>lapdftextProject</artifactId>
+	<version>1.7.2-SNAPSHOT</version>
+	<packaging>pom</packaging>
+	
+	<name>lapdftextProject</name>
+
+	<modules>
+		<module>bmkeg-as-parent</module>
+		<module>bmkeg-parent</module>
+		<module>lapdftext</module>
+		<module>lapdftextVpdmf</module>
+		<module>lapdftextServer</module>
+		<module>lapdftextClientComponents</module>
+		<module>lapdftextClientApp</module>
+	</modules>
+
+</project>

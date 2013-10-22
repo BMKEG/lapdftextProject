@@ -1,0 +1,4 @@
+.gitignore
+.project
+.settings/
+.DS_Store
