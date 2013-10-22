@@ -16,3 +16,6 @@
 [submodule "lapdftextVpdmf"]
 	path = lapdftextVpdmf
 	url = https://github.com/BMKEG/lapdftextVpdmf
+[submodule "lapdftext-rules"]
+	path = lapdftext-rules
+	url = https://github.com/BMKEG/lapdftext-rules
