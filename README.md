@@ -1,18 +1,10 @@
 lapdftextProject
 ================
 
-High-level build project for all LAPDF-Text submodules
+High-level build project for all LAPDF-Text submodules.
 
-<img src="design/lapdftext.jpg" width="600px">
+*Note* - we have currently deprecated the development of the LA-PDFText rule web application that is not tied to the digital library. This means that we will no longer be developing the [lapdftextServer](https://github.com/BMKEG/lapdftextServer) web application separately of the [sciKnowMine](https://github.com/BMKEG/sciKnowMine) system. Interested developers and users are referred to the [sciKnowMineProject](https://github.com/BMKEG/sciKnowMineProject) for more information. 
 
-We list five submodules in this high-level repo (six, if you include the bmkeg-parent project 
-which is needed to keep track of version numbers of Maven dependencies). 
-The primary point of contact for applications is either 
-(A) the [lapdftext](https://github.com/BMKEG/lapdftext) library, which is the base level
+To run this project, you should be able to compile this system directly from the download. This project is now *only* concerned with the [lapdftext](https://github.com/BMKEG/lapdftext) library, which is the base level
 library containing all functionality for directly interacting with PDF files through the 
-use of the JPedal GPL open source library (Beta level of development) and 
-(B) the [lapdftextServer](https://github.com/BMKEG/lapdftextServer) web application 
-that provides an web-based interface for developing rule files (Alpha level of development).
-
-We will further develop this system as a subcomponent of our digital library and knowledge engineering toolsets. 
-Watch this space! 
+use of the JPedal GPL open source library (Beta level of development). 
