@@ -8,3 +8,6 @@ High-level build project for all LAPDF-Text submodules.
 To run this project, you should be able to compile this system directly from the download. This project is now *only* concerned with the [lapdftext](https://github.com/BMKEG/lapdftext) library, which is the base level
 library containing all functionality for directly interacting with PDF files through the 
 use of the JPedal GPL open source library (Beta level of development). 
+
+To run the LA-PDFText library from source:
+
