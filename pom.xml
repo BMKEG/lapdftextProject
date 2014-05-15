@@ -12,7 +12,6 @@
 	<modules>
 		<module>bmkeg-parent</module>
 		<module>lapdftext</module>
-		<module>lapdftextVpdmf</module>
 	</modules>
 
 </project>
