@@ -10,13 +10,9 @@
 	<name>lapdftextProject</name>
 
 	<modules>
-		<module>bmkeg-as-parent</module>
 		<module>bmkeg-parent</module>
 		<module>lapdftext</module>
 		<module>lapdftextVpdmf</module>
-		<module>lapdftextServer</module>
-		<module>lapdftextClientComponents</module>
-		<module>lapdftextClientApp</module>
 	</modules>
 
 </project>
