@@ -11,12 +11,14 @@ use of the JPedal GPL open source library (Beta level of development).
 
 To run the LA-PDFText library from source:
 
+```
    git clone https://github.com/BMKEG/lapdftextProject
    git submodule update --init --recursive
    mvn -DskipTests clean package 
    cd lapdftext
    mvn -DskipTests assembly:assembly
-   
+```
+
 This will generate a file `lapdftextProject/lapdftext/target/lapdftext-1.7.4-SNAPSHOT-jar-with-dependencies.jar` that you may then use to run commands:
 
 
