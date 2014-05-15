@@ -1,18 +1,9 @@
-[submodule "lapdftextServer"]
-	path = lapdftextServer
-	url = https://github.com/BMKEG/lapdftextServer
 [submodule "lapdftext"]
 	path = lapdftext
 	url = https://github.com/BMKEG/lapdftext
 [submodule "bmkeg-parent"]
 	path = bmkeg-parent
 	url = https://github.com/BMKEG/bmkeg-parent
-[submodule "lapdftextClientApp"]
-	path = lapdftextClientApp
-	url = https://github.com/BMKEG/lapdftextClientApp
-[submodule "lapdftextClientComponents"]
-	path = lapdftextClientComponents
-	url = https://github.com/BMKEG/lapdftextClientComponents
 [submodule "lapdftextVpdmf"]
 	path = lapdftextVpdmf
 	url = https://github.com/BMKEG/lapdftextVpdmf
