@@ -44,4 +44,4 @@ Generates the following usage output:
    statistics about each chunk in each pdf document .
 ```
 
-See the wiki entry for the [lapdftext](https://github.com/BMKEG/lapdftext) project for the available commands
+See our online technical documentation at [http://bmkeg.github.io/lapdftext](http://bmkeg.github.io/lapdftext) for full technical instructions.
